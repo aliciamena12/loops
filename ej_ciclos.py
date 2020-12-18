@@ -392,7 +392,7 @@ for number in range(10, 0, -1):
     print(contador)
 
 #35. Leer dos números enteros y determinar a cuánto es igual el producto mutuo del primer dígito
-de cada uno.
+# de cada uno.
 num1 = int(input("Elige un número entero: "))
 num2 = int(input("Elige un segundo número entero: "))
 while num1 > 10:
